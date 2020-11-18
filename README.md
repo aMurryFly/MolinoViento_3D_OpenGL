@@ -14,7 +14,7 @@ Para la mejor comprensión de uso y de configuración del proyecto (Para su comp
 
 
 A continuación el resultado obtenido a través del uso de OpenGL para la generación del molino:<br>
-[Click here](https://youtu.be/GmfW95F84hU )
+[Video de funcionamiento](https://youtu.be/GmfW95F84hU )
 
 
 ## 🤔 Dudas o comentarios
