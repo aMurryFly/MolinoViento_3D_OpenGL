@@ -1,6 +1,6 @@
 # ✨ Molino de Viento ✨
 
-El presente proyecto es un Molino de viento 3D mediante el uso de primitivas como son cilindros, cubos y conos  a través del modelado jerárquico.
+El presente proyecto es un Molino de viento 3D mediante el uso de primitivas como son cilindros, conos y otras primitivas a través del modelado jerárquico.
 
 ## 🚀 Acerca del proyecto final
 
