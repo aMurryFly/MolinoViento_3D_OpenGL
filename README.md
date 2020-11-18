@@ -14,7 +14,7 @@ Para la mejor comprensión de uso y de configuración del proyecto (Para su comp
 
 
 A continuación el resultado obtenido a través del uso de OpenGL para la generación del molino:<br>
-<img src="https://github.com/aMurryFly/MolinoViento_3D_OpenGL/raw/main/img/resultado.1" alt="img" style="zoom:10%;" />
+[Click here](https://youtu.be/GmfW95F84hU )
 
 
 ## 🤔 Dudas o comentarios
