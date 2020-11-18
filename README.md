@@ -1,6 +1,8 @@
 # ✨ Molino de Viento ✨
 
 El presente proyecto es un Molino de viento 3D mediante el uso de primitivas como son cilindros, conos y otras primitivas a través del modelado jerárquico.
+<img src="https://github.com/aMurryFly/MolinoViento_3D_OpenGL/blob/main/modeladoJerarquico.png" alt="img" style="zoom:30%;" />
+
 
 ## 🚀 Acerca del proyecto final
 
@@ -22,6 +24,9 @@ A continuación el resultado obtenido a través del uso de OpenGL para la genera
 1. Debido a que las primitivas que he hecho están basadas en una esfera que nos dio el profesor Valencia de Laboratorio, al sólo haber sido modificadas las funciones paramétricas del cilincro como del cono, no se contemplan en ambas primitivas sus respectivas bases.
 
 2. Las primitivas están pensadas en el paradigma Orientado a Objetos, sin embargo la forma de implementación en el main code no es del todo OOP, sugiere tolerancia en el manejo adecuado de este lenguaje.
+
+3. Para la selección de color se utilizó la siguiente herramienta online:
+[https://imagecolorpicker.com/](https://imagecolorpicker.com/)
 
 
 ## 🤔 Dudas o comentarios
